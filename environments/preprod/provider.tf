@@ -9,7 +9,7 @@ terraform {
   }
 
   backend "azurerm" {
-    resource_group_name  = "rg-tfstate"
+    resource_group_name  = "Common_RG"
     storage_account_name = "commonstgoct2026"
     container_name       = "tfstate"
     key                  = "preprod/terraform.tfstate"
