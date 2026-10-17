@@ -2,9 +2,7 @@
 
 > 🌐 A modular, scalable Terraform project for provisioning and managing Azure cloud infrastructure across multiple environments.
 
-[![🔧 Terraform](https://img.shields.io/badge/Terraform-v1.0+-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![☁️ Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![📍 Region](https://img.shields.io/badge/Region-Central%20India-FF6B35)](https://azure.microsoft.com/en-in/explore/global-infrastructure/geographies/)
+🔧 **Terraform v1.0+** &nbsp;|&nbsp; ☁️ **Microsoft Azure** &nbsp;|&nbsp; 📍 **Central India** &nbsp;|&nbsp; 🌿 **Multi-Environment**
 
 ---
 
